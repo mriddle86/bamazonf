@@ -1,1 +1,3 @@
 # bamazonf
+
+walkthrough process
