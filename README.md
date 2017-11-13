@@ -1,3 +1,3 @@
 # bamazonf
 
-walkthrough process
+walkthrough process for customer
