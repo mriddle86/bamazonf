@@ -1,0 +1,24 @@
+{
+  "name": "bamazonf",
+  "version": "1.0.0",
+  "description": "walkthrough process",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^4.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mriddle86/bamazonf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mriddle86/bamazonf/issues"
+  },
+  "homepage": "https://github.com/mriddle86/bamazonf#readme"
+}
